@@ -1,0 +1,257 @@
+[
+  {
+    "id": "route_11",
+    "routeNumber": "11",
+    "name": "Kothrud Depot to Swargate",
+    "name_mr": "कोथरूड डेपो ते स्वारगेट",
+    "name_hi": "कोथरूड डिपो से स्वारगेट",
+    "category": "Ordinary",
+    "color": "#E65100",
+    "frequencyMinutes": 10,
+    "firstBus": "05:30",
+    "lastBus": "23:00",
+    "stops": [
+      { "stopId": "kothrud_depot", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "kothrud_stand", "distFromPrevKm": 1.4, "minutesFromPrev": 5 },
+      { "stopId": "paud_phata", "distFromPrevKm": 1.2, "minutesFromPrev": 4 },
+      { "stopId": "nal_stop", "distFromPrevKm": 1.1, "minutesFromPrev": 4 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 1.8, "minutesFromPrev": 7 },
+      { "stopId": "swargate", "distFromPrevKm": 2.1, "minutesFromPrev": 8 }
+    ]
+  },
+  {
+    "id": "route_100",
+    "routeNumber": "100",
+    "name": "Pune Station to Hinjewadi Phase 3",
+    "name_mr": "पुणे स्टेशन ते हिंजेवाडी फेज ३",
+    "name_hi": "पुणे स्टेशन से हिंजेवाड़ी फेज 3",
+    "category": "IT Express",
+    "color": "#1B5E20",
+    "frequencyMinutes": 12,
+    "firstBus": "06:00",
+    "lastBus": "22:45",
+    "stops": [
+      { "stopId": "pune_station", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 3.2, "minutesFromPrev": 12 },
+      { "stopId": "pune_university", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "aundh", "distFromPrevKm": 3.1, "minutesFromPrev": 10 },
+      { "stopId": "wakad_bridge", "distFromPrevKm": 6.2, "minutesFromPrev": 16 },
+      { "stopId": "hinjewadi_phase1", "distFromPrevKm": 3.0, "minutesFromPrev": 10 },
+      { "stopId": "hinjewadi_phase3", "distFromPrevKm": 4.5, "minutesFromPrev": 14 }
+    ]
+  },
+  {
+    "id": "route_115",
+    "routeNumber": "115",
+    "name": "Hinjewadi Phase 3 to Swargate",
+    "name_mr": "हिंजेवाडी फेज ३ ते स्वारगेट",
+    "name_hi": "हिंजेवाड़ी फेज 3 से स्वारगेट",
+    "category": "Ordinary",
+    "color": "#0277BD",
+    "frequencyMinutes": 15,
+    "firstBus": "06:15",
+    "lastBus": "22:15",
+    "stops": [
+      { "stopId": "hinjewadi_phase3", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "hinjewadi_phase1", "distFromPrevKm": 4.5, "minutesFromPrev": 14 },
+      { "stopId": "wakad_bridge", "distFromPrevKm": 3.0, "minutesFromPrev": 9 },
+      { "stopId": "baner_phata", "distFromPrevKm": 4.8, "minutesFromPrev": 12 },
+      { "stopId": "pune_university", "distFromPrevKm": 2.2, "minutesFromPrev": 7 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 2.4, "minutesFromPrev": 9 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 2.6, "minutesFromPrev": 9 },
+      { "stopId": "swargate", "distFromPrevKm": 2.1, "minutesFromPrev": 8 }
+    ]
+  },
+  {
+    "id": "route_148",
+    "routeNumber": "148",
+    "name": "Swargate to Pune Airport (Lohegaon)",
+    "name_mr": "स्वारगेट ते पुणे विमानतळ",
+    "name_hi": "स्वारगेट से पुणे हवाई अड्डा",
+    "category": "Airport AC Abhi",
+    "color": "#6A1B9A",
+    "frequencyMinutes": 20,
+    "firstBus": "05:00",
+    "lastBus": "23:30",
+    "stops": [
+      { "stopId": "swargate", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "pulgate", "distFromPrevKm": 2.9, "minutesFromPrev": 11 },
+      { "stopId": "pune_station", "distFromPrevKm": 3.0, "minutesFromPrev": 12 },
+      { "stopId": "yerawada", "distFromPrevKm": 3.2, "minutesFromPrev": 10 },
+      { "stopId": "viman_nagar", "distFromPrevKm": 3.8, "minutesFromPrev": 12 },
+      { "stopId": "pune_airport", "distFromPrevKm": 2.3, "minutesFromPrev": 8 }
+    ]
+  },
+  {
+    "id": "route_24",
+    "routeNumber": "24",
+    "name": "Katraj Depot to Pune Station",
+    "name_mr": "कात्रज डेपो ते पुणे स्टेशन",
+    "name_hi": "कात्रज डिपो से पुणे स्टेशन",
+    "category": "Rainbow BRTS",
+    "color": "#D84315",
+    "frequencyMinutes": 8,
+    "firstBus": "05:15",
+    "lastBus": "23:45",
+    "stops": [
+      { "stopId": "katraj_depot", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "dhankawadi", "distFromPrevKm": 1.8, "minutesFromPrev": 6 },
+      { "stopId": "padmavati", "distFromPrevKm": 1.5, "minutesFromPrev": 5 },
+      { "stopId": "swargate", "distFromPrevKm": 2.5, "minutesFromPrev": 9 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 2.1, "minutesFromPrev": 8 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 2.6, "minutesFromPrev": 9 },
+      { "stopId": "pune_station", "distFromPrevKm": 3.2, "minutesFromPrev": 11 }
+    ]
+  },
+  {
+    "id": "route_170",
+    "routeNumber": "170",
+    "name": "Swargate to Hadapsar Gadital",
+    "name_mr": "स्वारगेट ते हडपसर गाडीतळ",
+    "name_hi": "स्वारगेट से हडपसर गाड़ीतल",
+    "category": "Rainbow BRTS",
+    "color": "#2E7D32",
+    "frequencyMinutes": 10,
+    "firstBus": "05:40",
+    "lastBus": "23:15",
+    "stops": [
+      { "stopId": "swargate", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "pulgate", "distFromPrevKm": 2.9, "minutesFromPrev": 10 },
+      { "stopId": "fatima_nagar", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "hadapsar_gadital", "distFromPrevKm": 3.8, "minutesFromPrev": 12 }
+    ]
+  },
+  {
+    "id": "route_36",
+    "routeNumber": "36",
+    "name": "Deccan Gymkhana to Chinchwad Station",
+    "name_mr": "डेक्कन जिमखाना ते चिंचवड स्टेशन",
+    "name_hi": "डेक्कन जिमखाना से चिंचवड़ स्टेशन",
+    "category": "Ordinary",
+    "color": "#C2185B",
+    "frequencyMinutes": 15,
+    "firstBus": "06:00",
+    "lastBus": "22:00",
+    "stops": [
+      { "stopId": "deccan_gymkhana", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 1.1, "minutesFromPrev": 4 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 2.6, "minutesFromPrev": 9 },
+      { "stopId": "pune_university", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "khadki", "distFromPrevKm": 2.8, "minutesFromPrev": 9 },
+      { "stopId": "dapodi", "distFromPrevKm": 2.5, "minutesFromPrev": 8 },
+      { "stopId": "chinchwad_station", "distFromPrevKm": 6.8, "minutesFromPrev": 18 }
+    ]
+  },
+  {
+    "id": "route_348",
+    "routeNumber": "348",
+    "name": "Nigdi to Hadapsar Gadital",
+    "name_mr": "निगडी ते हडपसर गाडीतळ",
+    "name_hi": "निगडी से हडपसर गाड़ीतल",
+    "category": "Rainbow BRTS",
+    "color": "#1565C0",
+    "frequencyMinutes": 12,
+    "firstBus": "05:30",
+    "lastBus": "22:30",
+    "stops": [
+      { "stopId": "nigdi", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "chinchwad_station", "distFromPrevKm": 3.6, "minutesFromPrev": 10 },
+      { "stopId": "dapodi", "distFromPrevKm": 6.8, "minutesFromPrev": 17 },
+      { "stopId": "khadki", "distFromPrevKm": 2.5, "minutesFromPrev": 7 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 2.8, "minutesFromPrev": 9 },
+      { "stopId": "pune_station", "distFromPrevKm": 3.2, "minutesFromPrev": 11 },
+      { "stopId": "pulgate", "distFromPrevKm": 3.0, "minutesFromPrev": 10 },
+      { "stopId": "fatima_nagar", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "hadapsar_gadital", "distFromPrevKm": 3.8, "minutesFromPrev": 12 }
+    ]
+  },
+  {
+    "id": "route_158",
+    "routeNumber": "158",
+    "name": "Pune Station to Viman Nagar",
+    "name_mr": "पुणे स्टेशन ते विमान नगर",
+    "name_hi": "पुणे स्टेशन से विमान नगर",
+    "category": "Ordinary",
+    "color": "#00838F",
+    "frequencyMinutes": 14,
+    "firstBus": "06:15",
+    "lastBus": "22:45",
+    "stops": [
+      { "stopId": "pune_station", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "koregaon_park", "distFromPrevKm": 2.4, "minutesFromPrev": 9 },
+      { "stopId": "kalyani_nagar", "distFromPrevKm": 2.2, "minutesFromPrev": 8 },
+      { "stopId": "yerawada", "distFromPrevKm": 1.9, "minutesFromPrev": 7 },
+      { "stopId": "viman_nagar", "distFromPrevKm": 3.4, "minutesFromPrev": 11 }
+    ]
+  },
+  {
+    "id": "route_64",
+    "routeNumber": "64",
+    "name": "Hadapsar to Warje Malwadi",
+    "name_mr": "हडपसर ते वारजे माळवाडी",
+    "name_hi": "हडपसर से वारजे मालवाड़ी",
+    "category": "Ordinary",
+    "color": "#EF6C00",
+    "frequencyMinutes": 15,
+    "firstBus": "06:00",
+    "lastBus": "22:15",
+    "stops": [
+      { "stopId": "hadapsar_gadital", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "fatima_nagar", "distFromPrevKm": 3.8, "minutesFromPrev": 12 },
+      { "stopId": "pulgate", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "swargate", "distFromPrevKm": 2.9, "minutesFromPrev": 10 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 2.1, "minutesFromPrev": 8 },
+      { "stopId": "deccan_gymkhana", "distFromPrevKm": 1.1, "minutesFromPrev": 4 },
+      { "stopId": "nal_stop", "distFromPrevKm": 1.2, "minutesFromPrev": 5 },
+      { "stopId": "paud_phata", "distFromPrevKm": 1.1, "minutesFromPrev": 4 },
+      { "stopId": "warje_malwadi", "distFromPrevKm": 3.8, "minutesFromPrev": 12 }
+    ]
+  },
+  {
+    "id": "route_188",
+    "routeNumber": "188",
+    "name": "Hadapsar to Hinjewadi Phase 1",
+    "name_mr": "हडपसर ते हिंजेवाडी फेज १",
+    "name_hi": "हडपसर से हिंजेवाड़ी फेज 1",
+    "category": "IT Express",
+    "color": "#283593",
+    "frequencyMinutes": 20,
+    "firstBus": "06:30",
+    "lastBus": "21:30",
+    "stops": [
+      { "stopId": "hadapsar_gadital", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "magarpatta", "distFromPrevKm": 1.8, "minutesFromPrev": 6 },
+      { "stopId": "fatima_nagar", "distFromPrevKm": 2.5, "minutesFromPrev": 8 },
+      { "stopId": "pulgate", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "pune_station", "distFromPrevKm": 3.0, "minutesFromPrev": 11 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 3.2, "minutesFromPrev": 12 },
+      { "stopId": "pune_university", "distFromPrevKm": 2.4, "minutesFromPrev": 8 },
+      { "stopId": "wakad_bridge", "distFromPrevKm": 8.0, "minutesFromPrev": 20 },
+      { "stopId": "hinjewadi_phase1", "distFromPrevKm": 3.0, "minutesFromPrev": 10 }
+    ]
+  },
+  {
+    "id": "route_43",
+    "routeNumber": "43",
+    "name": "Katraj Depot to Nigdi (Direct Highway)",
+    "name_mr": "कात्रज डेपो ते निगडी",
+    "name_hi": "कात्रज डिपो से निगडी",
+    "category": "Express Ring",
+    "color": "#AD1457",
+    "frequencyMinutes": 15,
+    "firstBus": "05:45",
+    "lastBus": "23:00",
+    "stops": [
+      { "stopId": "katraj_depot", "distFromPrevKm": 0, "minutesFromPrev": 0 },
+      { "stopId": "dhankawadi", "distFromPrevKm": 1.8, "minutesFromPrev": 6 },
+      { "stopId": "padmavati", "distFromPrevKm": 1.5, "minutesFromPrev": 5 },
+      { "stopId": "swargate", "distFromPrevKm": 2.5, "minutesFromPrev": 9 },
+      { "stopId": "alka_talkies", "distFromPrevKm": 2.1, "minutesFromPrev": 8 },
+      { "stopId": "shivajinagar", "distFromPrevKm": 2.6, "minutesFromPrev": 9 },
+      { "stopId": "khadki", "distFromPrevKm": 2.8, "minutesFromPrev": 9 },
+      { "stopId": "dapodi", "distFromPrevKm": 2.5, "minutesFromPrev": 8 },
+      { "stopId": "chinchwad_station", "distFromPrevKm": 6.8, "minutesFromPrev": 18 },
+      { "stopId": "nigdi", "distFromPrevKm": 3.6, "minutesFromPrev": 10 }
+    ]
+  }
+]

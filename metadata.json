@@ -1,0 +1,6 @@
+{
+  "name": "PuneBus Saathi",
+  "description": "Conversational bus assistant for Pune PMPML riders with multilingual voice chat, intelligent route finding, crowd-verified live tracking, and low-data mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

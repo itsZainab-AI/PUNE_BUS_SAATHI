@@ -1,0 +1,382 @@
+[
+  {
+    "id": "fergusson_college",
+    "name": "Fergusson College",
+    "name_mr": "फर्ग्युसन कॉलेज",
+    "name_hi": "फर्ग्यूसन कॉलेज",
+    "aliases": ["fergusson", "fc", "fc college", "fergusson college road", "fc road", "ferguson", "fergusan"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 4,
+    "area": "Deccan / FC Road"
+  },
+  {
+    "id": "phoenix_marketcity",
+    "name": "Phoenix Marketcity Mall",
+    "name_mr": "फिनिक्स मार्केटसिटी मॉल",
+    "name_hi": "फीनिक्स मार्केटसिटी मॉल",
+    "aliases": ["phoenix", "phoenix mall", "phoenix market city", "fenix mall", "viman nagar mall", "phoenix marketcity"],
+    "nearestStopId": "viman_nagar",
+    "walkingMinutes": 2,
+    "area": "Viman Nagar"
+  },
+  {
+    "id": "shaniwar_wada",
+    "name": "Shaniwar Wada",
+    "name_mr": "शनिवार वाडा",
+    "name_hi": "शनिवार वाड़ा",
+    "aliases": ["shaniwar wada", "shaniwarwada", "sanivar vada", "shanivar wada", "bajirao road", "kasba peth"],
+    "nearestStopId": "alka_talkies",
+    "walkingMinutes": 6,
+    "area": "Old Pune / Kasba"
+  },
+  {
+    "id": "dagdusheth_ganpati",
+    "name": "Shrimant Dagdusheth Halwai Ganpati Temple",
+    "name_mr": "श्रीमंत दगडूशेठ हलवाई गणपती मंदिर",
+    "name_hi": "दगडूशेठ हलवाई गणपति मंदिर",
+    "aliases": ["dagdusheth", "dagdushet", "dagdusheth ganpati", "dagadushet", "budhwar peth", "dagdu seth"],
+    "nearestStopId": "alka_talkies",
+    "walkingMinutes": 5,
+    "area": "Budhwar Peth"
+  },
+  {
+    "id": "symbiosis_sb_road",
+    "name": "Symbiosis College / University (SB Road)",
+    "name_mr": "सिम्बायोसिस कॉलेज (सेनापती बापट रस्ता)",
+    "name_hi": "सिम्बायोसिस कॉलेज (एसबी रोड)",
+    "aliases": ["symbiosis", "simbiosis", "symbi", "sb road", "senapati bapat road", "symbiosis college"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 6,
+    "area": "SB Road / Deccan"
+  },
+  {
+    "id": "coep_university",
+    "name": "COEP Technological University",
+    "name_mr": "सीओईपी टेक्नॉलॉजिकल युनिव्हर्सिटी (अभियांत्रिकी महाविद्यालय)",
+    "name_hi": "सीओईपी कॉलेज (अभियांत्रिकी)",
+    "aliases": ["coep", "coep pune", "engineering college", "coep hostel", "coep boat club", "shimla office"],
+    "nearestStopId": "shivajinagar",
+    "walkingMinutes": 2,
+    "area": "Shivajinagar"
+  },
+  {
+    "id": "sppu_university",
+    "name": "Savitribai Phule Pune University (SPPU)",
+    "name_mr": "सावित्रीबाई फुले पुणे विद्यापीठ (SPPU)",
+    "name_hi": "पुणे विश्वविद्यालय (SPPU)",
+    "aliases": ["pune university", "sppu", "vidyapeeth", "university gate", "university circle", "pune vidyapeeth", "unipune"],
+    "nearestStopId": "pune_university",
+    "walkingMinutes": 2,
+    "area": "Ganeshkhind"
+  },
+  {
+    "id": "aga_khan_palace",
+    "name": "Aga Khan Palace",
+    "name_mr": "आगाखान पॅलेस",
+    "name_hi": "आगा खान पैलेस",
+    "aliases": ["aga khan", "aga khan palace", "agakhan", "gandhi memorial", "kasturba gandhi memorial"],
+    "nearestStopId": "yerawada",
+    "walkingMinutes": 5,
+    "area": "Yerawada / Nagar Road"
+  },
+  {
+    "id": "hinjewadi_it_park_p1",
+    "name": "Hinjewadi Rajiv Gandhi IT Park (Phase 1)",
+    "name_mr": "हिंजेवाडी राजीव गांधी आयटी पार्क (फेज १)",
+    "name_hi": "हिंजेवाड़ी आईटी पार्क (फेज 1)",
+    "aliases": ["hinjewadi it park", "infosys phase 1", "wipro hinjewadi", "shivaji chowk hinjewadi", "hinjewadi phase 1", "rgip"],
+    "nearestStopId": "hinjewadi_phase1",
+    "walkingMinutes": 2,
+    "area": "Hinjewadi Phase 1"
+  },
+  {
+    "id": "hinjewadi_megapolis_p3",
+    "name": "Hinjewadi Megapolis / TCS (Phase 3)",
+    "name_mr": "हिंजेवाडी मेगापोलिस / टीसीएस (फेज ३)",
+    "name_hi": "हिंजेवाड़ी मेगापोलिस (फेज 3)",
+    "aliases": ["megapolis", "hinjewadi phase 3", "tcs phase 3", "maan hinjewadi", "tech mahindra phase 3"],
+    "nearestStopId": "hinjewadi_phase3",
+    "walkingMinutes": 2,
+    "area": "Hinjewadi Phase 3"
+  },
+  {
+    "id": "vaishali_restaurant",
+    "name": "Vaishali Restaurant (FC Road)",
+    "name_mr": "वैशाली रेस्टॉरंट (एफसी रस्ता)",
+    "name_hi": "वैशाली रेस्टोरेंट (एफसी रोड)",
+    "aliases": ["vaishali", "vaishali fc road", "cafe vaishali", "hotel vaishali", "vaishali restaurant"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 3,
+    "area": "FC Road"
+  },
+  {
+    "id": "roopali_restaurant",
+    "name": "Roopali Restaurant (FC Road)",
+    "name_mr": "रूपाली रेस्टॉरंट (एफसी रस्ता)",
+    "name_hi": "रूपाली रेस्टोरेंट (एफसी रोड)",
+    "aliases": ["roopali", "rupali", "cafe roopali", "roopali fc road"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 3,
+    "area": "FC Road"
+  },
+  {
+    "id": "fc_road_market",
+    "name": "FC Road Shopping Street",
+    "name_mr": "फर्ग्युसन कॉलेज रस्ता खरेदी केंद्र",
+    "name_hi": "एफसी रोड मार्केट",
+    "aliases": ["fc road", "fc road shopping", "fergusson college road", "goodluck chowk"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 2,
+    "area": "Deccan"
+  },
+  {
+    "id": "jm_road",
+    "name": "Jangali Maharaj Road (JM Road)",
+    "name_mr": "जंगली महाराज रस्ता (जेएम रोड)",
+    "name_hi": "जंगली महाराज रोड (जेएम रोड)",
+    "aliases": ["jm road", "jangali maharaj road", "jm rd", "balgandharva chowk"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 3,
+    "area": "Deccan / Shivajinagar"
+  },
+  {
+    "id": "sarasbaug_ganpati",
+    "name": "Sarasbaug Ganpati & Lake Garden",
+    "name_mr": "सारसबाग गणपती आणि तळे उद्यान",
+    "name_hi": "सारसबाग गणपति और उद्यान",
+    "aliases": ["sarasbaug", "saras baug", "sarasbag", "peshwa park", "sanas ground", "swargate sarasbaug"],
+    "nearestStopId": "swargate",
+    "walkingMinutes": 4,
+    "area": "Swargate"
+  },
+  {
+    "id": "katraj_zoo",
+    "name": "Rajiv Gandhi Zoological Park (Katraj Snake Park)",
+    "name_mr": "राजीव गांधी प्राणी संग्रहालय (कात्रज स्नेक पार्क)",
+    "name_hi": "राजीव गांधी जूलॉजिकल पार्क (कात्रज जू)",
+    "aliases": ["katraj zoo", "katraj snake park", "katraj lake", "pune zoo", "rajiv gandhi zoo"],
+    "nearestStopId": "katraj_depot",
+    "walkingMinutes": 3,
+    "area": "Katraj"
+  },
+  {
+    "id": "seasons_mall",
+    "name": "Seasons Mall",
+    "name_mr": "सीझन्स मॉल (हडपसर)",
+    "name_hi": "सीजन्स मॉल (हडपसर)",
+    "aliases": ["seasons mall", "seasons", "seasons magarpatta", "cinepolis seasons"],
+    "nearestStopId": "magarpatta",
+    "walkingMinutes": 3,
+    "area": "Magarpatta / Hadapsar"
+  },
+  {
+    "id": "magarpatta_cybercity",
+    "name": "Magarpatta Cybercity IT Park",
+    "name_mr": "मगरपट्टा सायबरसिटी आयटी पार्क",
+    "name_hi": "मगरपट्टा साइबरसिटी आईटी पार्क",
+    "aliases": ["magarpatta cybercity", "cybercity", "accenture magarpatta", "amdocs magarpatta", "tower 12 magarpatta"],
+    "nearestStopId": "magarpatta",
+    "walkingMinutes": 2,
+    "area": "Magarpatta"
+  },
+  {
+    "id": "bal_gandharva",
+    "name": "Bal Gandharva Ranga Mandir",
+    "name_mr": "बालगंधर्व रंगमंदिर",
+    "name_hi": "बालगंधर्व रंगमंदिर",
+    "aliases": ["balgandharva", "bal gandharva", "balgandharva theatre", "sambhajiraje park"],
+    "nearestStopId": "deccan_gymkhana",
+    "walkingMinutes": 4,
+    "area": "JM Road"
+  },
+  {
+    "id": "parvati_hill",
+    "name": "Parvati Hill & Temple",
+    "name_mr": "पार्वती टेकडी आणि देवस्थान",
+    "name_hi": "पार्वती हिल मंदिर",
+    "aliases": ["parvati", "parvati hill", "parvati temple", "parvati tekdi"],
+    "nearestStopId": "swargate",
+    "walkingMinutes": 7,
+    "area": "Parvati"
+  },
+  {
+    "id": "chaturshringi_temple",
+    "name": "Chaturshringi Temple (SB Road)",
+    "name_mr": "चतुःशृंगी देवी मंदिर (सेनापती बापट रस्ता)",
+    "name_hi": "चतुर्शृंगी मंदिर",
+    "aliases": ["chaturshringi", "chaturshringi temple", "chaturshrungi", "sb road temple"],
+    "nearestStopId": "pune_university",
+    "walkingMinutes": 5,
+    "area": "SB Road / Ganeshkhind"
+  },
+  {
+    "id": "westend_mall_aundh",
+    "name": "Westend Mall Aundh",
+    "name_mr": "वेस्टएन्ड मॉल (औंध)",
+    "name_hi": "वेस्टएंड मॉल (औंध)",
+    "aliases": ["westend mall", "westend aundh", "cinepolis westend", "parihar chowk mall", "aundh westend"],
+    "nearestStopId": "aundh",
+    "walkingMinutes": 4,
+    "area": "Aundh"
+  },
+  {
+    "id": "amanora_mall",
+    "name": "Amanora Town Centre & Mall",
+    "name_mr": "अमनोरा टाऊन सेंटर आणि मॉल",
+    "name_hi": "अमनोरा मॉल",
+    "aliases": ["amanora", "amanora mall", "amanora town centre", "inox amanora"],
+    "nearestStopId": "hadapsar_gadital",
+    "walkingMinutes": 6,
+    "area": "Hadapsar"
+  },
+  {
+    "id": "e_square_university",
+    "name": "E-Square Multiplex (University Road)",
+    "name_mr": "ई-स्क्वेअर मल्टिप्लेक्स (विद्यापीठ रस्ता)",
+    "name_hi": "ई-स्क्वेयर (यूनिवर्सिटी रोड)",
+    "aliases": ["e square", "esquare", "e-square", "esquare university road", "shivaji housing"],
+    "nearestStopId": "pune_university",
+    "walkingMinutes": 4,
+    "area": "University Road"
+  },
+  {
+    "id": "ruby_hall_clinic",
+    "name": "Ruby Hall Clinic (Sassoon Road)",
+    "name_mr": "रुबी हॉल क्लिनिक (ससून रस्ता)",
+    "name_hi": "रूबी हॉल क्लीनिक",
+    "aliases": ["ruby hall", "ruby hall clinic", "ruby hospital", "sassoon road hospital"],
+    "nearestStopId": "pune_station",
+    "walkingMinutes": 4,
+    "area": "Station Road"
+  },
+  {
+    "id": "jehangir_hospital",
+    "name": "Jehangir Hospital",
+    "name_mr": "जहांगीर हॉस्पिटल",
+    "name_hi": "जहांगीर अस्पताल",
+    "aliases": ["jehangir hospital", "jehangir", "jahangir hospital"],
+    "nearestStopId": "pune_station",
+    "walkingMinutes": 3,
+    "area": "Station Road"
+  },
+  {
+    "id": "pune_airport_terminals",
+    "name": "Pune Airport (Terminal 1 & 2 Departure)",
+    "name_mr": "पुणे विमानतळ (टर्मिनल १ व २)",
+    "name_hi": "पुणे हवाई अड्डा (टर्मिनल 1 व 2)",
+    "aliases": ["pune airport", "lohegaon airport", "airport terminal 1", "airport terminal 2", "flight departure"],
+    "nearestStopId": "pune_airport",
+    "walkingMinutes": 1,
+    "area": "Lohegaon"
+  },
+  {
+    "id": "dange_chowk",
+    "name": "Dange Chowk / Thergaon",
+    "name_mr": "डांगे चौक / थेरगाव",
+    "name_hi": "डांगे चौक",
+    "aliases": ["dange chowk", "thergaon", "dange pul", "kalewadi phata"],
+    "nearestStopId": "wakad_bridge",
+    "walkingMinutes": 3,
+    "area": "PCMC West"
+  },
+  {
+    "id": "bhumkar_chowk",
+    "name": "Bhumkar Chowk (Wakad Highway)",
+    "name_mr": "भूमकर चौक (वाकड बायपास)",
+    "name_hi": "भूमकर चौक (वाकड)",
+    "aliases": ["bhumkar chowk", "bhumkar", "wakad highway", "bhumkar bridge"],
+    "nearestStopId": "wakad_bridge",
+    "walkingMinutes": 4,
+    "area": "Wakad"
+  },
+  {
+    "id": "elpro_city_square",
+    "name": "Elpro City Square Mall",
+    "name_mr": "एल्प्रो सिटी स्क्वेअर मॉल (चिंचवड)",
+    "name_hi": "एल्प्रो सिटी स्क्वायर मॉल",
+    "aliases": ["elpro", "elpro mall", "elpro city square", "chinchwad mall"],
+    "nearestStopId": "chinchwad_station",
+    "walkingMinutes": 4,
+    "area": "Chinchwad"
+  },
+  {
+    "id": "bhakti_shakti_circle",
+    "name": "Bhakti Shakti Smarak Chowk",
+    "name_mr": "भक्ती शक्ती स्मारक चौक (निगडी)",
+    "name_hi": "भक्ति शक्ति स्मारक चौक",
+    "aliases": ["bhakti shakti", "bhaktishakti", "pradhikaran chowk", "nigdi terminus"],
+    "nearestStopId": "nigdi",
+    "walkingMinutes": 2,
+    "area": "Nigdi"
+  },
+  {
+    "id": "cme_dapodi",
+    "name": "College of Military Engineering (CME Dapodi)",
+    "name_mr": "कॉलेज ऑफ मिलिटरी इंजिनिअरिंग (CME दापोडी)",
+    "name_hi": "सीएमई दापोड़ी",
+    "aliases": ["cme", "cme dapodi", "military engineering college"],
+    "nearestStopId": "dapodi",
+    "walkingMinutes": 3,
+    "area": "Dapodi"
+  },
+  {
+    "id": "osho_ashram",
+    "name": "Osho International Meditation Resort",
+    "name_mr": "ओशो इंटरनॅशनल रिसॉर्ट (कोरेगाव पार्क)",
+    "name_hi": "ओशो आश्रम (कोरेगांव पार्क)",
+    "aliases": ["osho ashram", "osho", "german bakery", "koregaon park lane 1", "north main road"],
+    "nearestStopId": "koregaon_park",
+    "walkingMinutes": 3,
+    "area": "Koregaon Park"
+  },
+  {
+    "id": "cummins_college",
+    "name": "MKSSS Cummins College of Engineering (Karve Nagar)",
+    "name_mr": "कमिन्स अभियांत्रिकी महाविद्यालय (कर्वे नगर)",
+    "name_hi": "कमिन्स कॉलेज (कर्वे नगर)",
+    "aliases": ["cummins", "cummins college", "karve nagar", "mksss cummins"],
+    "nearestStopId": "kothrud_stand",
+    "walkingMinutes": 6,
+    "area": "Karve Nagar"
+  },
+  {
+    "id": "mit_wpu_paud_road",
+    "name": "MIT World Peace University (Paud Road)",
+    "name_mr": "एमआयटी वर्ल्ड पीस युनिव्हर्सिटी (पौड रस्ता)",
+    "name_hi": "एमआईटी डब्ल्यूपीयू (पौड रोड)",
+    "aliases": ["mit", "mit college", "mit wpu", "mit kothrud", "paud road mit"],
+    "nearestStopId": "paud_phata",
+    "walkingMinutes": 5,
+    "area": "Kothrud / Paud Road"
+  },
+  {
+    "id": "bharati_vidyapeeth_katraj",
+    "name": "Bharati Vidyapeeth Deemed University (Katraj)",
+    "name_mr": "भारती विद्यापीठ (कात्रज-धनकवडी)",
+    "name_hi": "भारती विद्यापीठ (कात्रज)",
+    "aliases": ["bharati vidyapeeth", "bvp pune", "bharati hospital", "bharati medical college"],
+    "nearestStopId": "dhankawadi",
+    "walkingMinutes": 4,
+    "area": "Dhankawadi / Katraj"
+  },
+  {
+    "id": "swargate_st_stand",
+    "name": "Swargate MSRTC ST Terminus",
+    "name_mr": "स्वारगेट एसटी महामंडळ स्थानक",
+    "name_hi": "स्वारगेट एसटी बस स्टैंड",
+    "aliases": ["swargate st stand", "jedhe chowk", "st stand swargate", "msrtc swargate"],
+    "nearestStopId": "swargate",
+    "walkingMinutes": 1,
+    "area": "Swargate"
+  },
+  {
+    "id": "chandani_chowk",
+    "name": "Chandani Chowk Highway Flyover",
+    "name_mr": "चांदणी चौक उड्डाणपूल",
+    "name_hi": "चांदनी चौक",
+    "aliases": ["chandani chowk", "chandni chowk", "bavdhan phata", "mumbai bangalore bypass kothrud"],
+    "nearestStopId": "kothrud_depot",
+    "walkingMinutes": 5,
+    "area": "Kothrud / Bavdhan"
+  }
+]
